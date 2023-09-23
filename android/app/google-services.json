@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181610396456",
+    "project_id": "indemand-demo",
+    "storage_bucket": "indemand-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181610396456:android:28e4d539aaf06c62d42e1d",
+        "android_client_info": {
+          "package_name": "io.indemandcare.employeeservice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2D-QUWeuUOY_J1FVFazLJ89x5iipAs5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
